@@ -1,6 +1,4 @@
 age=int(input("how old are you? "))
-licence_num= "0723"
-
 if age>=18:
     print("age requirement: pass")
     print("licence status checker: ")
