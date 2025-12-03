@@ -1,7 +1,7 @@
 name=input("what is your name? ")
 food=input("what is your favorite food? ")
 current_year=int(input("What is the current year? "))
-age=int(input("how old are you? "))
+age=float(input("how old are you? "))
 
 birth_year=current_year - age
 

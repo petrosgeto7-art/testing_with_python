@@ -1,4 +1,4 @@
-x=float(input("enter number one: "))
+x=int(input("enter number one: "))
 y=float(input("enter  number two: "))
 opration=input("enetr the calculation: ")
 
